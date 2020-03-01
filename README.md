@@ -1,3 +1,5 @@
+Simple API to fetch the records from database and return as a JSON object
+
 #command to install all the requirements
 
 pip install -r requirements.txt
